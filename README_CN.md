@@ -10,8 +10,8 @@ LittleLink类似LinkTree，但免费且更灵活。
 ---
 ## User Guide 用户指南
 
-- [English](https://github.com/enyucao/littlelink/README.md)
-- [中文文档](https://github.com/enyucao/littlelink/README_CN.md)
+- [English](https://github.com/enyucao/littlelink/blob/main/README.md)
+- [中文文档](https://github.com/enyucao/littlelink/blob/main/README_CN.md)
 
 ---
 ### 🌞 Themes and Accessibility

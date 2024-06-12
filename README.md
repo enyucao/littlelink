@@ -6,8 +6,8 @@ The DIY self-hosted LinkTree alternative. LittleLink has more than 100 branded b
 ---
 ## User Guide 用户指南
 
-- [English](https://github.com/enyucao/littlelink/README.md)
-- [中文文档](https://github.com/enyucao/littlelink/README_CN.md)
+- [English](https://github.com/enyucao/littlelink/blob/main/README.md)
+- [中文文档](https://github.com/enyucao/littlelink/blob/main/README_CN.md)
 
 ---
 ### 🌞 Themes and Accessibility
