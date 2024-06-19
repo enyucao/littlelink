@@ -1,17 +1,13 @@
 ![Logo](https://cdn.cottle.cloud/littlelink/littlelink.gif)
 
-# LittleLink 中文介绍
+# LittleLink
 The DIY self-hosted LinkTree alternative. LittleLink has more than 100 branded button styles you can easily use, with more regularly added by our community in this repo and in [LittleLink Extended](https://github.com/sethcottle/littlelink-extended).
-
-（注：我不会直接翻译英文内容，而是自己的体验，描述一下）
-
-LittleLink类似LinkTree，但免费且更灵活。
 
 ---
 ## User Guide 用户指南
 
-- [English](https://github.com/enyucao/littlelink/blob/main/README.md)
-- [中文文档](https://github.com/enyucao/littlelink/blob/main/README_CN.md)
+- [English](https://github.com/enyucao/littlelink/blob/main/README_EN.md)
+- [中文文档](https://github.com/enyucao/littlelink/blob/main/README.md)
 
 ---
 ### 🌞 Themes and Accessibility
@@ -59,16 +55,9 @@ Duplicate the [LittleLink Template on Figma Community](https://www.figma.com/com
 [![Figma Community](https://cdn.cottle.cloud/littlelink/button-figma-community.svg)](https://www.figma.com/community/file/846568099968305613)
 
 #### 🐋 Docker
-
-你可以考虑使用Docker,但如果你知道Nginx的基础配置，使用Docker多此一举。
-
-如果使用Docker，推荐将LittleLink文件夹映射到外部，并考虑使用Repo进行版本控制。Drew将LittleLink封装为Docker内的/usr/share/nginx/html/， 推荐使用“-v <path2littlelink>:/usr/share/nginx/html/”，例如“-v /home/caoe/littelink:/usr/share/nginx/html/”.
+• [Techno Tim](https://github.com/timothystewart6) is building [LittleLink-Server](https://github.com/techno-tim/littlelink-server). Check out [his video](https://youtu.be/42SqfI_AjXU)!
 
 • [Drew](https://github.com/davisdre) is building a [super simple Docker implementation of LittleLink](https://github.com/davisdre/littlelink).
-
-Tim提供另一个思路，通过环境变量，配置想要的LittleLink按钮。而所有的环境变量，通过Docker Compose来维护。 但我个人不喜欢这种方式，我更喜欢自己修改html文件，所以没有尝试。
-
-• [Techno Tim](https://github.com/timothystewart6) is building [LittleLink-Server](https://github.com/techno-tim/littlelink-server). Check out [his video](https://youtu.be/42SqfI_AjXU)!
 
 #### 🗃️ Misc
 • [Khashayar](https://github.com/khashayarzavosh) is building [LittleLink Admin](https://github.com/khashayarzavosh/admin-littlelink) which lets you host your own admin portal to manage LittleLink!
